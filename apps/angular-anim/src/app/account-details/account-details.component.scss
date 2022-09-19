@@ -1,0 +1,12 @@
+.account-brief{
+    display: flex;
+    width: 25%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+    box-shadow: 1px 1px 0px #dcdcdc, 2px 2px 0px #dcdcdc, 3px 3px 0px #dcdcdc, 4px 4px 0px #dcdcdc, 5px 5px 0px #dcdcdc, 6px 6px 0px #dcdcdc;
+}
+
+.account-currency{
+    text-transform: uppercase;
+}
